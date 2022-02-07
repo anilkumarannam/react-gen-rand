@@ -12,7 +12,7 @@ const MyComponent = props => {
         <button type="button" onClick={rf}>
           Generate
         </button>
-        <p>{rn}</p>
+        <p className="number">{rn}</p>
       </div>
     </div>
   )

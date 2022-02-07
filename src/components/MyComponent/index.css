@@ -25,3 +25,8 @@ button {
   border-radius: 5px;
   color: white;
 }
+.number {
+  color: #0b69ff;
+  font-size: 30px;
+  font-weight: bold;
+}
